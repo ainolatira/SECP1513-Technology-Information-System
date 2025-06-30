@@ -1,14 +1,23 @@
 # SECP1513-Technology-Information-System
 
-**Technology-Information-System** focuses on the integration of technology and business processes to manage, process, and analyze information within organizations. This subject covers key topics such as:
+**Technology-Information-System** Has strengthened my understanding of how IT solutions support organizational operations, decision-making, and competitive advantage. This subject covers key topics such as:
 
-- Fundamentals of Information SystemsUnderstanding the role of IS in business, system components, and types of information systems.
-- Information System DevelopmentExploring system development life cycles (SDLC), analysis, design, and implementation phases.
-- Database and Data ManagementIntroduction to databases, data models, normalization, and SQL for managing information effectively.
-- Enterprise Systems & Decision SupportLearning how systems like ERP, SCM, and DSS enhance decision-making and business efficiency.
-- Ethics and Security in ISEmphasizing cybersecurity, privacy, ethical use of data, and compliance in digital environments.
+1. Fundamentals of Information Systems:   
+   *Understanding the role of IS in business, system components, and types of information systems.*
 
-This subject has strengthened my understanding of how IT solutions support organizational operations, decision-making, and competitive advantage.
+2. Information System Development:   
+   *Exploring system development life cycles (SDLC), analysis, design, and implementation phases.*
+   
+3. Database and Data Management:   
+   *Introduction to databases, data models, normalization, and SQL for managing information effectively.*
+   
+4. Enterprise Systems & Decision Support:   
+   *Learning how systems like ERP, SCM, and DSS enhance decision-making and business efficiency.*
+   
+5. Ethics and Security in IS:   
+   *Emphasizing cybersecurity, privacy, ethical use of data, and compliance in digital environments.*
+
+
 
 ## Coursework
 | 🗣 Others |
